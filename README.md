@@ -8,16 +8,14 @@
 
 ### Group Members
 
-Name ID
+**Name**------------- **ID**
 
----
-
-Yordanos Enawgaw 1493
-Amanuel Bewket 1451
-Lakachew Ferede 1284
-Mekedes Kibebew 0962
-Heaven Mandefro 1610
-Selome Zenebe 1297
+- Yordanos Enawgaw--- 1493
+- Amanuel Bewket----- 1451
+- Lakachew Ferede---- 1284
+- Mekedes Kibebew---- 0962
+- Heaven Mandefro---- 1610
+- Selome Zenebe------ 1297
 
 **Submitted to:** Mr. Moges\
 **Submission Date:** 10/03/2018 E.C.
